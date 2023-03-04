@@ -2,8 +2,8 @@
 
 Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bologna
 
-[![Grufoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Grufoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=gruvbox)](https://github.com/Grufoony)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
