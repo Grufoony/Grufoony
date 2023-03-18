@@ -9,9 +9,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=69% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
+  <img width=68% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=30.33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /><br/></a>
+  <img width=29.9% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /><br/></a>
 
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
