@@ -2,7 +2,7 @@
 
 Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bologna
 
-## About me
+#### About me
 <!-- previous code -->
 <!-- [![Grufoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -15,7 +15,7 @@ Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bolog
 <img align="left" width=30.33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" />
 </a>
 
-## Current works
+#### Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
   <img align="left" width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=TrafficFlowDynamicsModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
