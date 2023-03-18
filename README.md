@@ -8,8 +8,10 @@ Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bolog
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" width=69% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
-<img align="left" width=30.33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width=69% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width=30.33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /><br/></a>
 
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
