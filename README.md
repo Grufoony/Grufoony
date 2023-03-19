@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=68% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=29.9% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /><br/></a>
+  <img width=29.9% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /></a>
 
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
@@ -30,7 +30,9 @@
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Aral_Sea_shrinking&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/HP_model">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=HP_model&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/Grufoony/Progetto_Rimini">
+  <img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Progetto_Rimini&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/Grufoony/Statistical_Data_Analysis">
+  <img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Statistical_Data_Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/SIR_Project">
-  <img width=43.33% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=SIR_Project&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-  <a href="https://github.com/Grufoony/Progetto_Rimini">
-  <img width=54%  src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Progetto_Rimini&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=SIR_Project&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
