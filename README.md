@@ -16,8 +16,8 @@
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=TrafficFlowDynamicsModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/SimonB00/WealthDistributionModel">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=SimonB00&repo=WealthDistributionModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/sbaldu/WealthDistributionModel">
+  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=sbaldu&repo=WealthDistributionModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/Physics_Unibo">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Physics_Unibo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/Fisica_Unibo">
