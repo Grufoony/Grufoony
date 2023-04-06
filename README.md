@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=68% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=29.9% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=jupyter%20notebook&theme=dark" /></a>
+  <img width=29.9% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=CSS&theme=dark" /></a>
 
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
