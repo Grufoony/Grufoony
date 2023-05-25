@@ -24,8 +24,6 @@
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Fisica_Unibo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/GOandUISP">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/ComplexTrains">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ComplexTrains&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/RiccardoBarbieri/the_unibot">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=RiccardoBarbieri&repo=the_unibot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 
