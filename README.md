@@ -9,9 +9,9 @@ I'm currently interest in:
 - Arduino projects 💻
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=56.4% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
+  <img width=55.7% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=42.8% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=CSS,jupyter%20notebook&theme=dark&layout=compact" /></a>
+  <img width=42.3% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=CSS,jupyter%20notebook&theme=dark&layout=compact" /></a>
 
 ## Current works
 <a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
