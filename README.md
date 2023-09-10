@@ -3,7 +3,7 @@
 ## About me
 Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bologna.
 
-I'm currently interest in:
+I'm currently interested in:
 - Complex Systems 🐜
 - Dynamical models 🚄
 - Arduino projects 💻
