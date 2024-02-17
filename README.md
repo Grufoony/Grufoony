@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">![github contribution grid snake animation](https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)</a>
+<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU">![github contribution grid snake animation](https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)</a>
 
 ## About me
 Hi, I'm Gregorio, physics student at Alma Mater Studiorum - Università di Bologna.
@@ -13,9 +13,9 @@ I'm currently interested in:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=42.3% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=CSS,jupyter%20notebook&theme=dark&layout=compact" /></a>
 
-## Current works
-<a href="https://github.com/Grufoony/TrafficFlowDynamicsModel">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=TrafficFlowDynamicsModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+## Mantained works
+<a href="https://github.com/Grufoony/GOandUISP">
+  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/sbaldu/DynamicalSystemFramework">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=sbaldu&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/Physics_Unibo">
@@ -24,19 +24,13 @@ I'm currently interested in:
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Fisica_Unibo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/RiccardoBarbieri/the_unibot">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=RiccardoBarbieri&repo=the_unibot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/sbaldu/WealthDistributionModel">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=sbaldu&repo=WealthDistributionModel&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/GOandUISP">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 
-## Old works
-<a href="https://github.com/Grufoony/Aral_Sea_shrinking">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Aral_Sea_shrinking&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/HP_model">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=HP_model&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/Progetto_Rimini">
-  <img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Progetto_Rimini&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/Statistical_Data_Analysis">
-  <img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Statistical_Data_Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/SIR_Project">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=SIR_Project&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+
+## Research projects
+- [Traffic Flow Dynamics Model](https://github.com/Grufoony/TrafficFlowDynamicsModel): A C++ library for synthetic generation of traffic data.
+- [Aral Sea Shrinking](https://github.com/Grufoony/Aral_Sea_shrinking): Satellite Image Processing application to the shrinking Aral Sea.
+- [HP Model](https://github.com/Grufoony/HP_model): An overview and some applications of the HP model for protein folding
+- [SIR Project](https://github.com/Grufoony/SIR_Project): A small C++ application of the SIR model.
+- [Rimini](https://github.com/Grufoony/Progetto_Rimini): Analysis of traffic data from the city of Rimini.
+- [Wealth Ditribution](https://github.com/sbaldu/WealthDistributionModel): A model to simulate the wealth distribution in a closed community.
+- [World Population Growth](https://github.com/Grufoony/Statistical_Data_Analysis): A statistical study of the world population growth.
