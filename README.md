@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU">![github contribution grid snake animation](https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)</a>
 
 ## About me
-Hi, I'm Gregorio, *physics student* at Alma Mater Studiorum - Università di Bologna and *software developer* at [PEI VM Srl](!https://www.peivm.it/).
+Hi, I'm Gregorio, *physics student* at Alma Mater Studiorum - Università di Bologna and *software developer* at [PEI VM Srl](https://www.peivm.it/).
 
 I'm currently interested in:
 - Complex Systems 🐜
@@ -28,7 +28,7 @@ I'm currently interested in:
 
 ## Research projects
 - [Traffic Flow Dynamics Model](https://github.com/Grufoony/TrafficFlowDynamicsModel): A C++ library for synthetic generation of traffic data.
-- [Miscellanea](!https://github.com/Grufoony/miscellanea): A collection of miscellanea things.
+- [Miscellanea](https://github.com/Grufoony/miscellanea): A collection of miscellanea things.
 - [Aral Sea Shrinking](https://github.com/Grufoony/Aral_Sea_shrinking): Satellite Image Processing application to the shrinking Aral Sea.
 - [HP Model](https://github.com/Grufoony/HP_model): An overview and some applications of the HP model for protein folding
 - [SIR Project](https://github.com/Grufoony/SIR_Project): A small C++ application of the SIR model.
