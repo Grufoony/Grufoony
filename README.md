@@ -1,7 +1,9 @@
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU">![github contribution grid snake animation](https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)</a>
 
 ## About me
-Hi, I'm Gregorio, *physicist* and *software developer* at [PEI VM Srl](https://www.peivm.it/).
+Hi, I'm Gregorio, a *physicist*.
+
+I previously worked as a *software developer* at [PEI VM Srl](https://www.peivm.it/).
 
 I'm currently interested in:
 - Complex Systems 🐜
