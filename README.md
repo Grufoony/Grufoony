@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU">![github contribution grid snake animation](https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)</a>
 
 ## About me
-Hi, I'm Gregorio, a *physicist*.
+Hi, I'm Gregorio, 40th cycle PhD student in *physics*.
 
 I previously worked as a *software developer* at [PEI VM Srl](https://www.peivm.it/).
 
@@ -18,16 +18,14 @@ I'm currently interested in:
 ## Maintained works
 <a href="https://github.com/Grufoony/OpenSwim">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/sbaldu/DynamicalSystemFramework">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=sbaldu&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/Physics_Unibo">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Physics_Unibo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-<a href="https://github.com/Grufoony/Fisica_Unibo">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Fisica_Unibo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/physycom/DynamicalSystemFramework">
+  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/RiccardoBarbieri/the_unibot">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=RiccardoBarbieri&repo=the_unibot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 <a href="https://github.com/Grufoony/GOandUISP">
   <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/Grufoony/Open_Physics">
+  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 
 ## Research projects
 - [Traffic Flow Dynamics Model](https://github.com/Grufoony/TrafficFlowDynamicsModel): A C++ library for synthetic generation of traffic data.
