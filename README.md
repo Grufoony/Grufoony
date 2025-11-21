@@ -1,17 +1,34 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution grid snake animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+      <img src="https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
+    </picture>
   </a>
 </p>
 
 <div align="center">
   <h1>Hi, I'm Gregorio (<i>Grufoony</i>) 👋</h1>
   <p>40th cycle PhD student in <b>Physics</b> | Researcher | Software Developer </p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=55.7% src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark" />
-    <img width=42.3% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX,CSS,jupyter%20notebook&theme=dark&layout=compact" />
-  </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=default">
+      <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark">
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=default">
+      <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=dark" />
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -25,7 +42,7 @@
 
 
 ## About Me
-I am a passionate researcher and developer with a strong background in physics and a deep enthusiasm for software engineering. As a PhD candidate in **Physics**, I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects. Previously, I contributed as a software developer at [PEI VM Srl](https://www.peivm.it/), where I honed my skills in collaborative development and engineering best practices.
+I am a PhD student and developer with a strong background in physics and experience in software engineering. As a PhD student in **Physics**, I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects. Previously, I contributed as a software developer at [PEI VM Srl](https://www.peivm.it/), where I honed my skills in collaborative development and engineering best practices.
 
 ## 📚 What I work on / Research Interests
 
@@ -47,21 +64,46 @@ I am a passionate researcher and developer with a strong background in physics a
 - **Programming Languages**: C++, Python
 - **Tools & Ecosystem**: Git, GitHub, CMake, VS Code, Linux
 - **Techniques & Methods**: numerical simulation, agent-based modelling, statistical analysis, data visualization
-- **Engineering Practices**: unit testing, code review, documentation, reproducible research, CI/CD workflows, open-
+- **Engineering Practices**: unit testing, code review, documentation, reproducible research, CI/CD workflows
 
 ---
 
 ## Maintained Works
 <a href="https://github.com/Grufoony/OpenSwim">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&theme=default">
+    <img width=49% alt="OpenSwim" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </picture>
+</a>
 <a href="https://github.com/physycom/DynamicalSystemFramework">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&theme=default">
+    <img width=49% alt="DynamicalSystemFramework" src="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </picture>
+</a>
 <a href="https://github.com/Grufoony/ytd">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&theme=default">
+    <img width=49% alt="ytd" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </picture>
+</a>
 <a href="https://github.com/Grufoony/GOandUISP">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&theme=default">
+    <img width=49% alt="GOandUISP" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </picture>
+</a>
 <a href="https://github.com/Grufoony/Open_Physics">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&theme=default">
+    <img width=49% alt="Open_Physics" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </picture>
+</a>
 
 
 ## Research Projects
@@ -82,6 +124,6 @@ I am a passionate researcher and developer with a strong background in physics a
 ---
 
 <div align="center">
-  <sub>Last updated: August 2025</sub>
+  <sub>Last updated: November 2025</sub>
 </div>
 
