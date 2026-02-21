@@ -10,7 +10,7 @@
 
 <div align="center">
   <h1>Hi, I'm Gregorio (<i>Grufoony</i>) 👋</h1>
-  <p>40th cycle PhD student in <b>Physics</b> | Researcher | Software Developer </p>
+  <p>40th cycle PhD student in <b>Physics</b></p>
 </div>
 
 <p align="center">
@@ -30,19 +30,8 @@
   </a>
 </p>
 
----
-
-## Table of Contents
-1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Maintained Works](#maintained-works)
-4. [Research Projects](#research-projects)
-5. [Other Projects](#other-projects)
-6. [Contact](#contact)
-
-
 ## About Me
-I am a PhD student and developer with a strong background in physics and experience in software engineering. As a PhD student in **Physics**, I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects. Previously, I contributed as a software developer at [PEI VM Srl](https://www.peivm.it/), where I honed my skills in collaborative development and engineering best practices.
+I am a PhD student and developer with a strong background in physics and experience in software engineering. As a PhD student in **Physics**, I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects.
 
 ## 📚 What I work on / Research Interests
 
@@ -57,16 +46,6 @@ I am a PhD student and developer with a strong background in physics and experie
 
 - **Embedded systems & Arduino projects** 💻  
   Designing and implementing hardware-software solutions for scientific and educational applications.
-
----
-
-## Skills
-- **Programming Languages**: C++, Python
-- **Tools & Ecosystem**: Git, GitHub, CMake, VS Code, Linux
-- **Techniques & Methods**: numerical simulation, agent-based modelling, statistical analysis, data visualization
-- **Engineering Practices**: unit testing, code review, documentation, reproducible research, CI/CD workflows
-
----
 
 ## Maintained Works
 <a href="https://github.com/Grufoony/OpenSwim">
@@ -115,8 +94,6 @@ I am a PhD student and developer with a strong background in physics and experie
 - [Wealth Distribution](https://github.com/sbaldu/WealthDistributionModel): Simulation of wealth distribution in closed communities.
 - [World Population Growth](https://github.com/Grufoony/Statistical_Data_Analysis): Statistical study of global population growth.
 
-
-
 ## Other Projects
 - [The Unibot](https://github.com/RiccardoBarbieri/the_unibot): Telegram bot for University of Bologna data.
 - [Miscellanea](https://github.com/Grufoony/miscellanea): A collection of various small projects and experiments.
@@ -124,6 +101,6 @@ I am a PhD student and developer with a strong background in physics and experie
 ---
 
 <div align="center">
-  <sub>Last updated: November 2025</sub>
+  <sub>Last updated: February 2026</sub>
 </div>
 
