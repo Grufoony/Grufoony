@@ -16,16 +16,16 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=default">
-      <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Grufoony&show_icons=true&theme=dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-light.svg">
+      <img height="190" alt="GitHub Stats" src="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-dark.svg">
     </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=default">
-      <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grufoony&hide=TeX%2CCSS%2Cjupyter%20notebook&layout=compact&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/top-langs-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/top-langs-light.svg">
+      <img height="190" alt="Top Languages" src="https://raw.githubusercontent.com/grufoony/grufoony/output/top-langs-dark.svg" />
     </picture>
   </a>
 </p>
@@ -71,37 +71,37 @@ I am a PhD student and developer with a strong background in physics and experie
 ## Maintained Works
 <a href="https://github.com/Grufoony/OpenSwim">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&theme=default">
-    <img width=49% alt="OpenSwim" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=OpenSwim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-light.svg">
+    <img width=49% alt="OpenSwim" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/physycom/DynamicalSystemFramework">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&theme=default">
-    <img width=49% alt="DynamicalSystemFramework" src="https://github-readme-stats.vercel.app/api/pin/?username=physycom&repo=DynamicalSystemFramework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-light.svg">
+    <img width=49% alt="DynamicalSystemFramework" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/ytd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&theme=default">
-    <img width=49% alt="ytd" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=ytd&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-light.svg">
+    <img width=49% alt="ytd" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/GOandUISP">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&theme=default">
-    <img width=49% alt="GOandUISP" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=GOandUISP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-GOandUISP-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-GOandUISP-light.svg">
+    <img width=49% alt="GOandUISP" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-GOandUISP-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/Open_Physics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&theme=default">
-    <img width=49% alt="Open_Physics" src="https://github-readme-stats.vercel.app/api/pin/?username=Grufoony&repo=Open_Physics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-light.svg">
+    <img width=49% alt="Open_Physics" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
   </picture>
 </a>
 
