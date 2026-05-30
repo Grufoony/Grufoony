@@ -48,18 +48,18 @@ I am a PhD student and developer with a strong background in physics and experie
   Designing and implementing hardware-software solutions for scientific and educational applications.
 
 ## Maintained Works
-<a href="https://github.com/Grufoony/OpenSwim">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-light.svg">
-    <img width=49% alt="OpenSwim" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-OpenSwim-dark.svg">
-  </picture>
-</a>
 <a href="https://github.com/physycom/DynamicalSystemFramework">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-light.svg">
     <img width=49% alt="DynamicalSystemFramework" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
+  </picture>
+</a>
+<a href="https://github.com/Grufoony/dsf-examples">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-examples-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-examples-light.svg">
+    <img width=49% alt="dsf-examples" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-examples-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/ytd">
@@ -101,6 +101,6 @@ I am a PhD student and developer with a strong background in physics and experie
 ---
 
 <div align="center">
-  <sub>Last updated: February 2026</sub>
+  <sub>Last updated: May 2026</sub>
 </div>
 
