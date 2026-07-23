@@ -34,39 +34,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── GitHub Readme Stats (self-hosted) ────────────────────────
-      - name: Checkout github-readme-stats
-        uses: actions/checkout@v6
-        with:
-          repository: anuraghazra/github-readme-stats
-          path: github-readme-stats
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 24
-
-      - name: Install github-readme-stats dependencies
-        run: cd github-readme-stats && npm install
-
+      # ── GitHub Stats Extended ────────────────────────────────────
       - name: Generate stats cards
-        env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
         run: |
           README_FILE="$GITHUB_WORKSPACE/README.md"
           OUT="$GITHUB_WORKSPACE/dist"
-
-          cd github-readme-stats
-          node express.js &
-          SERVER_PID=$!
-
-          # Wait for the server to be ready (up to 30 s)
-          for i in $(seq 1 30); do
-            curl -sf http://localhost:9000 > /dev/null 2>&1 && break
-            sleep 1
-          done
-
-          BASE="http://localhost:9000"
+          BASE="https://github-stats-extended.vercel.app"
           mkdir -p "$OUT"
 
           # ── Stats card ──
@@ -86,8 +59,6 @@ jobs:
               curl -s "$BASE/api/pin/?username=$owner&repo=$repo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" -o "$OUT/pin-$repo-dark.svg"
               curl -s "$BASE/api/pin/?username=$owner&repo=$repo&theme=default" -o "$OUT/pin-$repo-light.svg"
           done
-
-          kill $SERVER_PID
 
       # ── Push all assets to the output branch ─────────────────────
       # Available at https://raw.githubusercontent.com/<user>/<repo>/output/<file>

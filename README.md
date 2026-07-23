@@ -14,14 +14,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-light.svg">
       <img height="190" alt="GitHub Stats" src="https://raw.githubusercontent.com/grufoony/grufoony/output/stats-dark.svg">
     </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/top-langs-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/top-langs-light.svg">
@@ -103,4 +103,3 @@ I am a PhD student and developer with a strong background in physics and experie
 <div align="center">
   <sub>Last updated: May 2026</sub>
 </div>
-
