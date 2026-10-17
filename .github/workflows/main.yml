@@ -56,8 +56,13 @@ jobs:
             | awk -F/ 'BEGIN { OFS = " " } { print $(NF - 1), $NF }' \
             | sort -u \
             | while read -r owner repo; do
-              curl -s "$BASE/api/pin/?username=$owner&repo=$repo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" -o "$OUT/pin-$repo-dark.svg"
-              curl -s "$BASE/api/pin/?username=$owner&repo=$repo&theme=default" -o "$OUT/pin-$repo-light.svg"
+              # full-width cards: widen the card (keeps the height) instead of scaling it up
+              case "$repo" in
+                DynamicalSystemFramework|Open_Physics) WIDTH="&card_width=804" ;;
+                *) WIDTH="" ;;
+              esac
+              curl -s "$BASE/api/pin/?username=$owner&repo=$repo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515$WIDTH" -o "$OUT/pin-$repo-dark.svg"
+              curl -s "$BASE/api/pin/?username=$owner&repo=$repo&theme=default$WIDTH" -o "$OUT/pin-$repo-light.svg"
           done
 
       # ── Push all assets to the output branch ─────────────────────

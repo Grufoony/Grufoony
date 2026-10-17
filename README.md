@@ -31,7 +31,7 @@
 </p>
 
 ## About Me
-I am a PhD student and developer with a strong background in physics and experience in software engineering. As a PhD student in **Physics**, I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects.
+I am a PhD student and developer with a strong background in **Physics** and experience in **Software Engineering**. I specialize in building simulation libraries and analyzing real-world datasets, working at the intersection of **computational modelling**, **data analysis**, and **scientific research**. My interests span complex systems, dynamical models, and embedded hardware projects.
 
 ## 📚 What I work on / Research Interests
 
@@ -48,11 +48,21 @@ I am a PhD student and developer with a strong background in physics and experie
   Designing and implementing hardware-software solutions for scientific and educational applications.
 
 ## Maintained Works
+### Open Science
+<a href="https://github.com/Grufoony/Open_Physics">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-light.svg">
+    <img width=98.5% alt="Open_Physics" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
+  </picture>
+</a>
+
+### DynamicalSystemFramework
 <a href="https://github.com/physycom/DynamicalSystemFramework">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-light.svg">
-    <img width=49% alt="DynamicalSystemFramework" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
+    <img width=98.5% alt="DynamicalSystemFramework" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-DynamicalSystemFramework-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/dsf-examples">
@@ -62,11 +72,20 @@ I am a PhD student and developer with a strong background in physics and experie
     <img width=49% alt="dsf-examples" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-examples-dark.svg">
   </picture>
 </a>
-<a href="https://github.com/Grufoony/ytd">
+<a href="https://github.com/Grufoony/dsf-gui">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-light.svg">
-    <img width=49% alt="ytd" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-ytd-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-gui-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-gui-light.svg">
+    <img width=49% alt="dsf-gui" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-dsf-gui-dark.svg">
+  </picture>
+</a>
+
+### UISP
+<a href="https://github.com/Grufoony/uisp-analytics">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-uisp-analytics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-uisp-analytics-light.svg">
+    <img width=49% alt="uisp-analytics" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-uisp-analytics-dark.svg">
   </picture>
 </a>
 <a href="https://github.com/Grufoony/GOandUISP">
@@ -76,14 +95,6 @@ I am a PhD student and developer with a strong background in physics and experie
     <img width=49% alt="GOandUISP" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-GOandUISP-dark.svg">
   </picture>
 </a>
-<a href="https://github.com/Grufoony/Open_Physics">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-light.svg">
-    <img width=49% alt="Open_Physics" src="https://raw.githubusercontent.com/grufoony/grufoony/output/pin-Open_Physics-dark.svg">
-  </picture>
-</a>
-
 
 ## Research Projects
 - [Traffic Flow Dynamics Model](https://github.com/Grufoony/TrafficFlowDynamicsModel): C++ library for synthetic traffic data generation.
@@ -95,11 +106,12 @@ I am a PhD student and developer with a strong background in physics and experie
 - [World Population Growth](https://github.com/Grufoony/Statistical_Data_Analysis): Statistical study of global population growth.
 
 ## Other Projects
+- [ytd](https://github.com/Grufoony/ytd): A free and open-source YouTube downloader written in Python.
 - [The Unibot](https://github.com/RiccardoBarbieri/the_unibot): Telegram bot for University of Bologna data.
 - [Miscellanea](https://github.com/Grufoony/miscellanea): A collection of various small projects and experiments.
 
 ---
 
 <div align="center">
-  <sub>Last updated: May 2026</sub>
+  <sub>Last updated: October 2026</sub>
 </div>
