@@ -111,7 +111,8 @@ I am a PhD student and developer with a strong background in **Physics** and exp
 - [Miscellanea](https://github.com/Grufoony/miscellanea): A collection of various small projects and experiments.
 
 ---
-
+<!-- Footer -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Grufoony&color=green&abbreviated=true" alt="Profile views" /></br>
   <sub>Last updated: October 2026</sub>
 </div>
